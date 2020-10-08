@@ -1,12 +1,12 @@
 {
   "name": "node-red-contrib-pcap",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Network packet capture for Node-RED",
-  "homepage": "http://github.com/njh/node-red-contrib-pcap",
+  "homepage": "http://github.com/winnerineast/node-red-contrib-pcap",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/njh/node-red-contrib-pcap.git"
+    "url": "https://github.com/winnerineast/node-red-contrib-pcap.git"
   },
   "author": {
     "name": "Nicholas Humfrey",
@@ -19,7 +19,7 @@
     "node-red"
   ],
   "dependencies": {
-    "pcap": "^2.0.0"
+    "pcap": "^3.0.0"
   },
   "node-red": {
     "nodes": {
